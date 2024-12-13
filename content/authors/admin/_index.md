@@ -11,7 +11,7 @@ last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Communication Systems Group, Technical University of Darmstadt
+  - name: Communication Systems Group, TU Darmstadt
     url: https://www.nts.tu-darmstadt.de
 
 # Social network links
@@ -116,11 +116,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Finalist of the IEEE SAM 2024 Best Student Paper Contest
-    year: '2024'
+    date: '2024-12-01'
   - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
-    year: '2019'
+    date '2019-09-01'
   - title: Best Student Award
-    year: '2018'
+    date: '2018-07-01'
     awarder: Dept. ETIT, TU Darmstadt
 ---
 
