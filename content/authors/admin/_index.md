@@ -116,11 +116,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Finalist of the IEEE SAM 2024 Best Student Paper Contest
-    date: '2024'
+    year: '2024'
   - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
-    date: '2019'
+    year: '2019'
   - title: Best Student Award
-    date: '2018-07'
+    year: '2018'
     awarder: Dept. ETIT, TU Darmstadt
 ---
 
