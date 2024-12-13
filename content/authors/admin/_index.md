@@ -54,11 +54,8 @@ education:
     date_start: 2018-10-01
     date_end: 2024-09-26
     summary: |
-      Grade: with distinction
-
-      Thesis: _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_ 
-      
-      Advisor: [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp)
+      _With distinction_.
+      Thesis on _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_. Supervised by [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp). 
 # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
@@ -68,15 +65,14 @@ education:
     date_start: 2016-09-01
     date_end: 2018-07-31
     summary: |
-      Grade: with distinction
-
-      Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino
+      _With distinction_.
+      Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino.
   - area: M.Sc. Communications and Computer Networks Engineering
     institution: Politecnico di Torino
     date_start: 2015-09-01
     date_end: 2018-07-31
     summary: |
-      Grade: cum laude
+      _Cum laude_
   - area: B.Sc. Telecommunications Engineering
     institution: Politecnico di Torino
     date_start: 2014-09-01
