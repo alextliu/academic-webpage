@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,105 +45,69 @@ profiles:
 interests:
   - Sparse Signal Processing
   - Parallel Optimization Methods
-  - Direction-of-Arrival Estimation
+  - Sensor Array Signal Processing
   - Graph Topology Inference
 
 education:
   - area: Dr.-Ing. Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
-    date_start: 2018-10-01
-    date_end: 2024-09-26
+    date_start: 2018-10
+    date_end: 2024-09
     summary: |
       Thesis on _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_. Supervised by [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://tuprints.ulb.tu-darmstadt.de/28201/'
   - area: M.Sc. Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
-    date_start: 2016-09-01
-    date_end: 2018-07-31
+    date_start: 2016-09
+    date_end: 2018-07
     summary: |
-      GPA: 3.8/4.0
+      Grade: with distinction
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino
+  - area: M.Sc. Communications and Computer Networks Engineering
+    institution: Politecnico di Torino
+    date_start: 2015-09
+    date_end: 2018-07
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Grade: cum laude
+  - area: B.Sc. Telecommunications Engineering
+    institution: Politecnico di Torino
+    date_start: 2014-09
+    date_end: 2015-07
+    summary: |
+      Double Degree Program PoliTong between Politecnico di Torino and Tongji University
+  - area: B.Eng. Electronics and Information Engineering
+    institution: Tongji University
+    date_start: 2011-09
+    date_end: 2015-06
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Research Associate
+    company_name: Communication Systems Group, TU Darmstadt
+    company_url: 'https://www.nts.tu-darmstadt.de'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-11
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Doctoral Research Associate
+    company_name: Communication Systems Group, TU Darmstadt
+    company_url: 'https://www.nts.tu-darmstadt.de'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2018-09
+    date_end: 2024-08
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Italian
+    percent: 50
+  - name: German
     percent: 25
 
 # Awards.
@@ -151,33 +115,17 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Finalist of the IEEE SAM 2024 Best Student Paper Contest
+    date: '2024'
+  - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
+    date: '2019'
+  - title: Best Student Award
+    date: '2018-07'
+    awarder: Dept. ETIT, TU Darmstadt
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tianyi Liu obtained the M.Sc. degree in communications and computer networks engineering, with distinction, from the Politecnico di Torino, Italy, in 2018. He received the M.Sc. degree in electrical engineering and information technology from the Technical University of Darmstadt (TUD), Germany, in 2018, with the best student award from the Department of Electrical Engineering and Information Technology. He received the Dr.-Ing. degree in electrical engineering and information technology, with distinction, from TUD in 2024. Currently, he is working as a postdoctoral research associate at the Communication Systems Group, TUD.
+
+His research interests include sparse signal processing, parallel optimization methods, sensor array signal processing, and graph topology inference.
