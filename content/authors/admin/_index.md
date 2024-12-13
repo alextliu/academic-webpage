@@ -55,7 +55,9 @@ education:
     date_end: 2024-09-26
     summary: |
       Grade: with distinction
+
       Thesis: _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_ 
+      
       Advisor: [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp)
 # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
