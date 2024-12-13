@@ -127,5 +127,3 @@ awards:
 ## About Me
 
 Tianyi Liu obtained the M.Sc. degree in communications and computer networks engineering, with distinction, from the Politecnico di Torino, Italy, in 2018. He received the M.Sc. degree in electrical engineering and information technology from the Technical University of Darmstadt (TUD), Germany, in 2018, with the best student award from the Department of Electrical Engineering and Information Technology. He received the Dr.-Ing. degree in electrical engineering and information technology, with distinction, from TUD in 2024. Currently, he is working as a postdoctoral research associate at the Communication Systems Group, TUD.
-
-His research interests include sparse signal processing, parallel optimization methods, sensor array signal processing, and graph topology inference.
