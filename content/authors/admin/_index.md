@@ -118,7 +118,7 @@ awards:
   - title: Finalist of the IEEE SAM 2024 Best Student Paper Contest
     date: '2024-12-01'
   - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
-    date '2019-09-01'
+    date: '2019-09-01'
   - title: Best Student Award
     date: '2018-07-01'
     awarder: Dept. ETIT, TU Darmstadt
