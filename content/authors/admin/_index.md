@@ -54,7 +54,8 @@ education:
     date_start: 2018-10-01
     date_end: 2024-09-26
     summary: |
-      Thesis on _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_. Supervised by [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_. Supervised by [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp). 
+# Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://tuprints.ulb.tu-darmstadt.de/28201/'
