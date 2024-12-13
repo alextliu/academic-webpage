@@ -51,8 +51,8 @@ interests:
 education:
   - area: Dr.-Ing. Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
-    date_start: 2018-10
-    date_end: 2024-09
+    date_start: 2018-10-01
+    date_end: 2024-09-26
     summary: |
       Thesis on _A Parallel Successive Convex Approximation Framework with Smoothing Majorization for Phase Retrieval_. Supervised by [Prof. Dr.-Ing. Marius Pesavento](https://www.nts.tu-darmstadt.de/team_nts/staff_nts/details_12801.en.jsp). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -60,41 +60,41 @@ education:
       url: 'https://tuprints.ulb.tu-darmstadt.de/28201/'
   - area: M.Sc. Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
-    date_start: 2016-09
-    date_end: 2018-07
+    date_start: 2016-09-01
+    date_end: 2018-07-31
     summary: |
       Grade: with distinction
 
       Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino
   - area: M.Sc. Communications and Computer Networks Engineering
     institution: Politecnico di Torino
-    date_start: 2015-09
-    date_end: 2018-07
+    date_start: 2015-09-01
+    date_end: 2018-07-31
     summary: |
       Grade: cum laude
   - area: B.Sc. Telecommunications Engineering
     institution: Politecnico di Torino
-    date_start: 2014-09
-    date_end: 2015-07
+    date_start: 2014-09-01
+    date_end: 2015-07-31
     summary: |
       Double Degree Program PoliTong between Politecnico di Torino and Tongji University
   - area: B.Eng. Electronics and Information Engineering
     institution: Tongji University
-    date_start: 2011-09
-    date_end: 2015-06
+    date_start: 2011-09-01
+    date_end: 2015-06-30
 work:
   - position: Postdoctoral Research Associate
     company_name: Communication Systems Group, TU Darmstadt
     company_url: 'https://www.nts.tu-darmstadt.de'
     company_logo: ''
-    date_start: 2024-11
+    date_start: 2024-11-01
     date_end: ''
   - position: Doctoral Research Associate
     company_name: Communication Systems Group, TU Darmstadt
     company_url: 'https://www.nts.tu-darmstadt.de'
     company_logo: ''
-    date_start: 2018-09
-    date_end: 2024-08
+    date_start: 2018-09-01
+    date_end: 2024-08-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
