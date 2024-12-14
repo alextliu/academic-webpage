@@ -14,10 +14,11 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 5
       filters:
         folders:
           - publication
-        publication_type: "thesis"
+        publication_type: ""
         exclude_featured: false
     design:
       view: citation
