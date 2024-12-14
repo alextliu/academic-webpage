@@ -1,5 +1,5 @@
 ---
-title: 'My Publications'
+title: 'Publications'
 date: 2023-10-24
 type: landing
 
@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: "thesis"
         exclude_featured: false
     design:
       view: citation
