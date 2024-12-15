@@ -42,7 +42,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: "misc"
+        publication_type: "manuscript"
         exclude_featured: false
     design:
       view: citation
