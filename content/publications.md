@@ -11,6 +11,10 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      text: |
+        A complete publication list can be found on Tianyi Liu's profiles in Google Scholar and Research Gate.
   - block: collection
     content:
       title: Theses
@@ -72,5 +76,3 @@ sections:
     design:
       view: citation
 ---
-
-A complete publication list
