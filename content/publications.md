@@ -12,13 +12,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Recent Publications
+      title: Theses
       text: ""
-      count: 5
+      count: 0
       filters:
         folders:
           - publication
-        publication_type: ""
+        publication_type: "thesis"
         exclude_featured: false
     design:
       view: citation
