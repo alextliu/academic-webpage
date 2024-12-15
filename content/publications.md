@@ -2,6 +2,7 @@
 title: 'Publications'
 date: 2023-10-24
 type: landing
+featured: true
 
 design:
   spacing: '5rem'
@@ -71,3 +72,5 @@ sections:
     design:
       view: citation
 ---
+
+A complete publication list
