@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tianyi Liu
+title: Dr.-Ing. Tianyi Liu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
