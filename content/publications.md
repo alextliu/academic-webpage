@@ -14,7 +14,7 @@ sections:
   - block: markdown
     content:
       text: |
-        A complete publication list can be found on Tianyi Liu's profiles in Google Scholar and Research Gate.
+        A complete publication list can be found on Tianyi Liu's profiles in [Google Scholar](https://scholar.google.com/citations?user=SAJ8bL8AAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Tianyi-Liu-3).
   - block: collection
     content:
       title: Theses
