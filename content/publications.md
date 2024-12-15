@@ -22,4 +22,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+- block: collection
+    content:
+      title: Book Chapters
+      text: ""
+      count: 0
+      filters:
+        folders:
+          - publication
+        publication_type: "incollection"
+        exclude_featured: false
+    design:
+      view: citation
 ---
