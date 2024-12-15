@@ -54,7 +54,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: "article"
+        publication_type: "article-journal"
         exclude_featured: false
     design:
       view: citation
@@ -66,7 +66,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: "inproceedings"
+        publication_type: "paper-conference"
         exclude_featured: false
     design:
       view: citation
