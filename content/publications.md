@@ -30,7 +30,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: "incollection"
+        publication_type: "chapter"
         exclude_featured: false
     design:
       view: citation
