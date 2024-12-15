@@ -1,4 +1,4 @@
 ---
 title: Tianyi Liu
-highlight_user: true
+highlight_name: true
 ---
