@@ -42,17 +42,17 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: publications
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: citation
-      columns: 1
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: citation
+  #     columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
