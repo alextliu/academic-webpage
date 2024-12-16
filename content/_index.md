@@ -52,8 +52,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: citation
-      columns: 1
+      view: showcase
+      # columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
