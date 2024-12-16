@@ -56,4 +56,11 @@ abstract: This dissertation is concerned with the design and analysis of approxi
 
 featured: true
 url_slides: 'SmoothingSCA_slides_Liu_2024-09-26.pdf'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'General principle of Successive Convex Approximation'
+  focal_point: ""
+  preview_only: false
 ---
