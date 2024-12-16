@@ -1,6 +1,6 @@
 ---
 title: Publications
-cms_exclude: true
+# cms_exclude: true
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
