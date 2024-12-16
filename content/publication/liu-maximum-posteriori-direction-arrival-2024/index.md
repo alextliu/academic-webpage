@@ -33,4 +33,6 @@ abstract: In this paper, we consider the maximum a posteriori (MAP) estimation f
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.03501
+
+featured: true
 ---

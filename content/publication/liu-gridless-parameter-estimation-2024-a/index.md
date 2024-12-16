@@ -31,4 +31,6 @@ abstract: Spatial frequency estimation from a mixture of noisy sinusoids finds a
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2406.16041
+
+featured: true
 ---
