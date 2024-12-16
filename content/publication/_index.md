@@ -1,16 +1,18 @@
 ---
 title: Publications
 cms_exclude: true
+# Page type - we want a landing page (such as a homepage)
+type: landing
 
 # View.
-view: citation
+# view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
   image: ''
 
-# Page sections
+# Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
     content:
