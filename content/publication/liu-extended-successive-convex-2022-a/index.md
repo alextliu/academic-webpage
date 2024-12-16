@@ -30,4 +30,6 @@ abstract: Phase retrieval aims at recovering unknown signals from magnitude meas
   channel estimation from subband magnitude measurements in a multi-antenna random
   access network. Simulation results show the efficiency of the proposed techniques
   compared to state-of-the-art methods.
+
+featured: true
 ---

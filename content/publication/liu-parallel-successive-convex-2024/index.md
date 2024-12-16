@@ -53,4 +53,6 @@ abstract: This dissertation is concerned with the design and analysis of approxi
   and both their error performance and computational time are evaluated by extensive
   simulations in the context of blind channel estimation from subband magnitude measurements
   in multi-antenna random access network, in comparison to the state-of-the-art methods.
+
+featured: true
 ---
