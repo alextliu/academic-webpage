@@ -55,4 +55,5 @@ abstract: This dissertation is concerned with the design and analysis of approxi
   in multi-antenna random access network, in comparison to the state-of-the-art methods.
 
 featured: true
+url_slides: 'SmoothingSCA_slides_Liu_2024-09-26.pdf'
 ---
