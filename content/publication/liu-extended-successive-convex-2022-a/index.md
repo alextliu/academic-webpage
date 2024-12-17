@@ -35,5 +35,5 @@ featured: true
 url_code: "https://github.com/alextliu/PRDL_SmoothingSCA"
 
 # Summary. An optional shortened abstract.
-summary: This paper considers the phase retrieval with dictionary learning problem, which includes another prior information that the signal admits a sparse representation over an unknown dictionary, and develops efficient parallel algorithms by extending the successive convex approximation framework using a smooth majorization.
+summary: This paper develops efficient parallel algorithms for the phase retrieval with dictionary learning problem by extending the successive convex approximation framework using a smooth majorization.
 ---
