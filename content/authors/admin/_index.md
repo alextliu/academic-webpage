@@ -64,7 +64,7 @@ education:
       url: 'https://tuprints.ulb.tu-darmstadt.de/28201/'
   - area: M.Sc. Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
-    date_start: 2016-09-01
+    date_start: 2016-10-01
     date_end: 2018-07-31
     summary: |
       _With distinction_.
@@ -119,7 +119,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Finalist of the IEEE SAM 2024 Best Student Paper Contest
-    date: '2024-12-01'
+    date: '2024-07-01'
   - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
     date: '2019-09-01'
   - title: Best Student Award
