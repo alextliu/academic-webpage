@@ -51,7 +51,7 @@ interests:
   - Graph Topology Inference
 
 education:
-  - area: Dr.-Ing. Electrical Engineering and Information Technology
+  - area: Dr.-Ing. in Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
     date_start: 2018-10-01
     date_end: 2024-09-26
@@ -62,26 +62,26 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://tuprints.ulb.tu-darmstadt.de/28201/'
-  - area: M.Sc. Electrical Engineering and Information Technology
+  - area: M.Sc. in Electrical Engineering and Information Technology
     institution: Technical University of Darmstadt
     date_start: 2016-10-01
     date_end: 2018-07-31
     summary: |
       _With distinction_.
       Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino.
-  - area: M.Sc. Communications and Computer Networks Engineering
+  - area: M.Sc. in Communications and Computer Networks Engineering
     institution: Politecnico di Torino
     date_start: 2015-09-01
     date_end: 2018-07-31
     summary: |
       _Cum laude_
-  - area: B.Sc. Telecommunications Engineering
+  - area: B.Sc. in Telecommunications Engineering
     institution: Politecnico di Torino
     date_start: 2014-09-01
     date_end: 2015-07-31
     summary: |
       Double Degree Program PoliTong between Politecnico di Torino and Tongji University
-  - area: B.Eng. Electronics and Information Engineering
+  - area: B.Eng. in Electronics and Information Engineering
     institution: Tongji University
     date_start: 2011-09-01
     date_end: 2015-06-30
