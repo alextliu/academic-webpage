@@ -34,7 +34,9 @@ sections:
       text: |
         # Teaching Assistant at Technical University of Darmstadt
         - **18-pe-2080 Graph Signal Processing, Learning and Optimization**
+
           Teaching Assistant, Department of Electrical Engineering and Information Technology, Winter Semester 2020/21 -- Winter Semester 2024/25
+          
         - **18-pe-2070 Matrix Analysis and Computations**
   - block: resume-languages
     content:
