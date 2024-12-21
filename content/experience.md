@@ -31,6 +31,7 @@ sections:
   - block: markdown
     content:
       title: Teaching
+      subtitle: Teaching Assistant at Technical University of Darmstadt
       text: |
         - 18-pe-2080 Graph Signal Processing, Learning and Optimization
         - 18-pe-2070 Matrix Analysis and Computations
