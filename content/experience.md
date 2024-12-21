@@ -28,6 +28,12 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: markdown
+    content:
+      title: Teaching
+      text: |
+        - 18-pe-2080 Graph Signal Processing, Learning and Optimization
+        - 18-pe-2070 Matrix Analysis and Computations
   - block: resume-languages
     content:
       title: Languages
