@@ -39,7 +39,7 @@ sections:
         - **18-pe-2070 Matrix Analysis and Computations**
 
           Summer Semester 2019 -- Summer Semester 2024
-        - **18-pe-2050 Project Seminar Procedures for Massive MIMO and 5G**
+        - **18-pe-2050 Project Seminar: Procedures for Massive MIMO and 5G**
 
           Summer Semester 2020
         - **18-pe-2030 MIMO Communication and Space-Time Coding**
