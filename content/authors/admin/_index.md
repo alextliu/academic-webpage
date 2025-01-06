@@ -68,7 +68,7 @@ education:
     date_end: 2018-07-31
     summary: |
       _With distinction_.
-      Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino.
+      Erasmus Double Degree Program between Technical University of Darmstadt and Politecnico di Torino. Recipient of the Best Master Student Award from the Dept. ETIT.
   - area: M.Sc. in Communications and Computer Networks Engineering
     institution: Politecnico di Torino
     date_start: 2015-09-01
@@ -122,7 +122,7 @@ awards:
     date: '2024-07-01'
   - title: Finalist of the EUSIPCO 2019 Best Student Paper Contest
     date: '2019-09-01'
-  - title: Best Student Award
+  - title: Best Master Student Award
     date: '2018-07-01'
     awarder: Dept. ETIT, TU Darmstadt
 ---
