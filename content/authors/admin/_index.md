@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/tianyi-liu-1b733714a
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=SAJ8bL8AAAAJ&hl=en
-  - icon: custom/researchgate
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Tianyi-Liu-3
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8338-1651
