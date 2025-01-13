@@ -33,6 +33,7 @@ abstract: Phase retrieval aims at recovering unknown signals from magnitude meas
 
 featured: true
 url_code: "https://github.com/alextliu/PRDL_SmoothingSCA"
+url_poster: /PhaseRetreival_ICASSP2021_poster_Liu.pdf
 
 # Summary. An optional shortened abstract.
 summary: Developing parallel algorithms for the phase retrieval with dictionary learning problem by extending the successive convex approximation framework using a smooth majorization.
