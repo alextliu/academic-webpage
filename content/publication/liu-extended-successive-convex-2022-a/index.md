@@ -41,7 +41,7 @@ summary: Developing parallel algorithms for the phase retrieval with dictionary 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'General principle of Successive Convex Approximation'
+  caption: 'Magnitude-only measurements in a Multi-antenna Random Access Network'
   focal_point: ""
   preview_only: false
 ---
