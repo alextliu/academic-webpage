@@ -36,4 +36,5 @@ links:
   url: https://arxiv.org/abs/2311.03501
 
 featured: true
+url_poster: /MMVL20-MISDP_CAMSAP23_poster_portrait.pdf
 ---

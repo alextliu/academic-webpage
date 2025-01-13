@@ -37,4 +37,11 @@ url_poster: /PhaseRetreival_ICASSP2021_poster_Liu.pdf
 
 # Summary. An optional shortened abstract.
 summary: Developing parallel algorithms for the phase retrieval with dictionary learning problem by extending the successive convex approximation framework using a smooth majorization.
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'General principle of Successive Convex Approximation'
+  focal_point: ""
+  preview_only: false
 ---

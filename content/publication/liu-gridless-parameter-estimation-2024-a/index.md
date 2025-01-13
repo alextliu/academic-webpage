@@ -34,4 +34,5 @@ links:
   url: https://arxiv.org/abs/2406.16041
 
 featured: true
+url_poster: /SI-SPARROW_PCRA_ICASSP2024_poster_portrait.pdf
 ---
