@@ -21,4 +21,6 @@ abstract: Spatial frequency estimation from a superposition of impinging wavefor
   multiple shift-invariance properties in the partly calibrated array. Additionally,
   an efficient blind calibration technique is proposed based on semidefinite relaxation
   to estimate the intersubarray phase-offsets accurately.
+
+url_poster: /PhaseOffsetCalibrateion_SAM2024_poster_portrait.pdf
 ---
